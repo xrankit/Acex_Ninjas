@@ -1,0 +1,11 @@
+firstNumber = int(input("Enter the First Number: "))
+secondNumber = int(input("Enter the Second Number: "))
+
+print("Sum of ", firstNumber , " and " , secondNumber , " :")
+print(firstNumber + secondNumber)
+print("Difference of", firstNumber, " and " , Second Number," : ")
+print(firstNumber - secondNumber)
+print("Multiply of", firstNumber, " and ", Second Number,": ")
+print(firstNumber * secondNumber)
+print("Divide of First Number and Second Number: ")
+print(firstNumber / secondNumber)
