@@ -1,20 +1,15 @@
-import java.util.Scanner;
 
 public class IfElseDecisionMaking {
     public static String compareIfElse(int a, int b) {
-        String small =  "smaller";
+        String small = "smaller";
         String greater = "greater";
         String equal = "equal";
-        if(a<b)
-        {
+        if (a < b) {
             return small;
-        }
-        else if(a>b)
-        {
+        } else if (a > b) {
             return greater;
-        }
-        else{
+        } else {
             return equal;
         }
     }
-}*
+}
