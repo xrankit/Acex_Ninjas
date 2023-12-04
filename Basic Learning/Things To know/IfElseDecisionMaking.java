@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Solution {
+
+public class IfElseDecisionMaking {
     public static String compareIfElse(int a, int b) {
         String small =  "smaller";
         String greater = "greater";
@@ -16,4 +17,4 @@ public class Solution {
             return equal;
         }
     }
-}
+}*
