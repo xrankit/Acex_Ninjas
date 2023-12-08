@@ -17,6 +17,6 @@ public class whileLoopDivideAndQuotient {
             }
             n = n / 10;
         }
-        System.out.print(even + " " + odd);
+        System.out.print(even + "" + odd);
     }
 }
