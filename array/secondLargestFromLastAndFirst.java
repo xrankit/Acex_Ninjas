@@ -1,4 +1,3 @@
-package array;
 
 public class secondLargestFromLastAndFirst {
     public static int[] getSecondOrderElements(int n, int[] a) {

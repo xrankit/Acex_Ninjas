@@ -1,4 +1,3 @@
-package array;
 
 public class checkSortedArray {
     public static int isSorted(int n, int[] arr) {
